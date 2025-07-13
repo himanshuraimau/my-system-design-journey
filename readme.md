@@ -16,7 +16,6 @@ This repo is my logbook, a mix of notes, diagrams, and working code.
 
 /project-name
 /docs       → Notes, design writeups (HLD, LLD, tradeoffs)
-/diagrams   → Architecture diagrams, flows
 /code       → Working codebase (backend + infra)
 
 ```
